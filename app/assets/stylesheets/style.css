@@ -1,9 +1,28 @@
 body {
-
+  background-image: url('rice.png')
 }
 
 .jumbotron {
-  background-color: #4E4F4F;
-  color: white;
+  background-color: #FFFCAD;
+  color: black;
   font-family: 'Raleway', sans-serif;
+  border-radius: 2em;
+  width: 75%;
+  margin-left: 8.5em;
 }
+
+h1 a{
+  width:;
+  height:;
+  display:block;
+  text-indent:-9999px;
+  background:url(/images/logo.jpg);
+}
+
+.esq {
+  color
+}
+
+
+
+
