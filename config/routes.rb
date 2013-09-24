@@ -1,5 +1,7 @@
 Esq::Application.routes.draw do
   root 'esq#index'
+  get '/soniatapryal' => 'esq#sonia'
+  get '/somyakaushik' => 'esq#somya'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
