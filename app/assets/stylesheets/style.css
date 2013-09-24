@@ -1,14 +1,13 @@
 body {
-  background-image: url('rice.png')
+  /*background-image: url('rice.png')*/
+  background-color: #EEFFF1;
 }
 
 .jumbotron {
-  background-color: #FFFCAD;
-  color: black;
+  background-color: #3B403C;
+  color: white;
   font-family: 'Raleway', sans-serif;
-  border-radius: 2em;
-  width: 75%;
-  margin-left: 8.5em;
+
 }
 
 h1 a{
