@@ -1,6 +1,6 @@
 body {
   /*background-image: url('rice.png')*/
-  background-color: #EEFFF1;
+  background-color: #FFE8A8;
 }
 
 .jumbotron {
@@ -11,13 +11,16 @@ body {
 }
 
 h1 a{
-
-
   display:block;
   text-indent:-9999px;
   background:url(/images/logo.jpg);
 }
 
+/*.btn-primary  {
+  background-image: linear-gradient(to bottom,green 0,#8DFFC1 100%);
+  color: white;
+  border-color: #234030
+}*/
 
 
 
