@@ -1,6 +1,7 @@
 body {
   /*background-image: url('rice.png')*/
-  background-color: #FFFFF3;
+  background-color: white;
+
 }
 
 .jumbotron {
@@ -8,14 +9,13 @@ body {
   color: white;
   font-family: 'Raleway', sans-serif;
 
+
 }
 
-h1 a{
-  display:block;
-  text-indent:-9999px;
-  background:url(/images/logo.jpg);
+img {
+  border-radius: 1.3em;
+  border-style: none;
 }
-
 
 
 
