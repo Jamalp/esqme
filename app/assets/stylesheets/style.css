@@ -4,11 +4,50 @@ body {
 
 }
 
+#soniaphoto {
+  float:left;
+  margin-top: 3em;
+  /*margin-bottom: 1em;*/
+  /*margin-right: 2em;*/
+}
+
+#soniaphoto img {
+  border-radius: 10em;
+  /*margin-bottom: 2em;*/
+  margin-right: 2em;
+}
+
+.soniaabout {
+  float:right;
+  width: 60%;
+  /*padding: auto;*/
+  word-wrap:break-word;
+}
+
+#soniaabout p {
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+  text-align: left;
+  position: relative;
+}
+
+.twitter-follow-button {
+  float: left;
+  margin-left: 10em;
+  /*margin-top: 2em;*/
+
+}
+
 .jumbotron {
-  background-color: #3B403C;
+  /*background-color: #3B403C;*/
   color: white;
   font-family: 'Raleway', sans-serif;
-
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+  top: 1;
+  left: 0;
 }
 
 .btn-custom {
@@ -32,6 +71,10 @@ img {
   border-radius: 1.3em;
   border-style: none;
   margin-top: -3em;
+}
+
+h1 {
+  margin-bottom: 0.7em;
 }
 
 
