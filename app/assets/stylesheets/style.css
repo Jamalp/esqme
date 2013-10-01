@@ -1,41 +1,39 @@
 body {
-  /*background-image: url('rice.png')*/
   background-color: white;
-
 }
 
-#soniaphoto {
+.photo {
   float:left;
   margin-top: 3em;
-  /*margin-bottom: 1em;*/
-  /*margin-right: 2em;*/
 }
 
-#soniaphoto img {
+.photo img {
   border-radius: 10em;
-  /*margin-bottom: 2em;*/
   margin-right: 2em;
 }
 
-.soniaabout {
+.about {
   float:right;
-  width: 60%;
-  /*padding: auto;*/
+  width: 65%;
   word-wrap:break-word;
 }
 
-#soniaabout p {
+.about p {
   font-size: 20px;
   font-family: 'Lato', sans-serif;
   text-align: left;
   position: relative;
 }
 
-.twitter-follow-button {
-  float: left;
-  margin-left: 10em;
-  /*margin-top: 2em;*/
 
+#twitter {
+  float: left;
+  margin-left: 2em;
+  margin-top: 1em;
+}
+
+#social {
+  margin-left: 2em;
 }
 
 .jumbotron {
